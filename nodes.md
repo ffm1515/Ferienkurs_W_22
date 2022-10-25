@@ -15,3 +15,5 @@ AppCode (Objective-C, Swift)
 code.org
 Minecraft
 replit.com
+## Was ist eine Kontrollstruktur in Python?
+Python stellt prinzipiell alle aus anderen Programmiersprachen bekannten Kontrollstrukturen für Schleifen und Fallunterscheidungen bereit. Speziell an Python ist, dass Blöcke innerhalb von Kontrollkonstrukten nicht durch geschweifte Klammern, sondern durch Einrückung (Indent) definiert werden.
